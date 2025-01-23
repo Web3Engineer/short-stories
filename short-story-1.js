@@ -1,1 +1,1 @@
-const short-story-1 = "Once upon a time"; 
+const shortStory1 = "Once upon a time"; 
